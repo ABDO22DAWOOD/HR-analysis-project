@@ -72,6 +72,16 @@ Designed a relational **Star Schema** model:
 - **Power Query** (data cleaning).  
 - **Power BI** (dashboard design).  
 - **Data Modeling** (Star Schema).
+- **DAX** (custom measures and calculations)  
+
+---
+
+## 📐 DAX Measures
+Some of the key DAX measures created in this project:
+- **Price per Sqft** = DIVIDE([Sale Price], [Finished Area Sqft], 0)  
+- **Property Age** = YEAR(TODAY()) - [Year Built]  
+- **YOY Growth** = CALCULATE([Total Sales], DATEADD(Dim_Time[Date], -1, YEAR))  
+- **Contract Expiration Days** =
 
 
 

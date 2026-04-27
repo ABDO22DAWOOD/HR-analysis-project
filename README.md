@@ -71,7 +71,9 @@ Designed a relational **Star Schema** model:
 ##  Tools Used
 - **Power Query** (data cleaning).  
 - **Power BI** (dashboard design).  
-- **Data Modeling** (Star Schema).  
+- **Data Modeling** (Star Schema).
+- ** DAX**
+
 
 ## Project Structure
 

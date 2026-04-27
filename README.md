@@ -72,7 +72,7 @@ Designed a relational **Star Schema** model:
 - **Power Query** (data cleaning).  
 - **Power BI** (dashboard design).  
 - **Data Modeling** (Star Schema).
-- ** DAX**
+
 
 
 ## Project Structure

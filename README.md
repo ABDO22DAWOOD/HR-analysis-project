@@ -73,7 +73,25 @@ Designed a relational **Star Schema** model:
 - **Power BI** (dashboard design).  
 - **Data Modeling** (Star Schema).  
 
+## Project Structure
+
+│
+├── images/              # Dashboard screenshots
+│   ├── core_workforce.png
+│   ├── workforce_dynamics.png
+│   ├── resignations_appointments.png
+│   └── leaves_balances.png
+│
+├── model/               # Data model diagram
+│   └── hr_data_model.png
+│
+└── README.md            # Documentation
+
+
 ---
+
+## Conclusion
+This project demonstrated how **data cleaning + modeling + visualization** can transform raw HR data into strategic insights for workforce planning and management.
 
 ## 📂 Project Structure
 

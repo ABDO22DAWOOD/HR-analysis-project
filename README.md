@@ -93,5 +93,4 @@ Designed a relational **Star Schema** model:
 ## Conclusion
 This project demonstrated how **data cleaning + modeling + visualization** can transform raw HR data into strategic insights for workforce planning and management.
 
-## 📂 Project Structure
 
